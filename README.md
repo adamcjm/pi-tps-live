@@ -1,6 +1,6 @@
 # pi-tps-live
 
-> [中文文档 (Chinese)](README.zh-CN.md)
+> [中文文档 (Chinese)](https://github.com/adamcjm/pi-tps-live/blob/main/docs/README.zh-CN.md)
 
 Live **tokens-per-second** in [pi](https://pi.dev)'s footer — right-aligned at the end of the **first line**, next to your working directory.
 

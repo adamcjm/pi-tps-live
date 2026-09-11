@@ -1,6 +1,6 @@
 {
   "name": "pi-tps-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live tokens-per-second in pi's footer first line: sliding-window tok/s while streaming, exact last-turn average at rest.",
   "keywords": [
     "pi-package",

@@ -1,6 +1,6 @@
 # pi-tps-live
 
-> [English (英文文档)](README.md)
+> [English (英文文档)](https://github.com/adamcjm/pi-tps-live/blob/main/README.md)
 
 在 [pi](https://pi.dev) 底栏**第一行末端**（固定右侧）实时显示 **tokens/秒**，紧挨着工作目录。
 
