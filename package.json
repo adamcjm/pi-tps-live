@@ -1,6 +1,6 @@
 {
   "name": "pi-tps-live",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Live tokens-per-second in pi's footer first line: sliding-window tok/s while streaming, exact last-turn average at rest.",
   "keywords": [
     "pi-package",
@@ -38,9 +38,9 @@
     "@earendil-works/pi-tui": "*"
   },
   "devDependencies": {
-    "@earendil-works/pi-ai": "^0.85.1",
-    "@earendil-works/pi-coding-agent": "^0.85.1",
-    "@earendil-works/pi-tui": "^0.85.1",
+    "@earendil-works/pi-ai": "^1.0.0",
+    "@earendil-works/pi-coding-agent": "^1.0.0",
+    "@earendil-works/pi-tui": "^1.0.0",
     "@types/node": "^22.10.0",
     "typescript": "^5.7.0"
   }
